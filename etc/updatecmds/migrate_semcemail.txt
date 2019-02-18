@@ -1,0 +1,6 @@
+# Merge all data from the old to new email package name
+com.sonymobile.email:com.android.email
+ databases
+
+com.sonymobile.email:com.android.email
+ shared_prefs
